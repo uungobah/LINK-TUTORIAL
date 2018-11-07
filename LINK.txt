@@ -1,6 +1,9 @@
 -- Creates Project Spring Boot
 http://start.spring.io/
 
+--SpringBoot
+http://www.springboottutorial.com/spring-boot-auto-configuration
+
 -- Deploy SpringBoot war to tomcat
 https://www.baeldung.com/spring-boot-war-tomcat-deploy
 
