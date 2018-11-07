@@ -1,0 +1,9 @@
+-- Creates Project Spring Boot
+http://start.spring.io/
+
+-- Deploy SpringBoot war to tomcat
+https://www.baeldung.com/spring-boot-war-tomcat-deploy
+
+-- Spring Boot MicroService
+http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
+
