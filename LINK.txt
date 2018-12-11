@@ -12,3 +12,5 @@ http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1
 
 https://www.youtube.com/watch?v=gfWr2_H39N0
 
+http://www.springboottutorial.com/spring-boot-rest-api-projects-with-code-examples
+
