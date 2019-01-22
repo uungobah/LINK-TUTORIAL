@@ -24,3 +24,6 @@ https://www.guru99.com/mongodb-tutorials.html
 --Java
 https://www.guru99.com/java-tutorial.html
 
+
+-- Golang
+http://gorm.io/docs/query.html
