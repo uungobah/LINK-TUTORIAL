@@ -30,3 +30,6 @@ https://www.youtube.com/watch?v=QOR69q1e63Y
 
 -- Golang
 http://gorm.io/docs/query.html
+
+--CAMEL
+https://help.talend.com/reader/SUzvVjxkFWs4p6BXVXwyHQ/9ayxCLgo8u6FAeU94zFETQ
