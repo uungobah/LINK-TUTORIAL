@@ -33,3 +33,6 @@ http://gorm.io/docs/query.html
 
 --CAMEL
 https://help.talend.com/reader/SUzvVjxkFWs4p6BXVXwyHQ/9ayxCLgo8u6FAeU94zFETQ
+
+--Async Java--
+https://www.callicoder.com/java-8-completablefuture-tutorial/
