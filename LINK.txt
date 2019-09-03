@@ -26,6 +26,7 @@ https://www.guru99.com/java-tutorial.html
 
 --RX Java
 https://www.youtube.com/watch?v=QOR69q1e63Y
+https://medium.com/nusanet/pengenalan-rxjava-untuk-pemula-bagian-1-2c9895a73c70
 
 
 -- Golang
