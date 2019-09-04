@@ -1,0 +1,9 @@
+git remote -v => untuk cek upstream
+
+git remote add upstream [url repo upstream] => Untuk menambahkan upstream
+
+git fetch upstream => get perubahan dari upstream jika ada branch baru atau perubahan lainnya
+
+git checkout -b development upstream/development => create branch baru di local dengan branch source upstream/development
+
+
